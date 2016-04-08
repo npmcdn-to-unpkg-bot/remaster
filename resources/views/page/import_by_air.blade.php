@@ -3,7 +3,7 @@
   <div class="row">
       <div class="col-md-10 col-md-offset-1">
           <div class="panel panel-primary">
-              <div class="panel-heading"><button class="<a btn-success" href="{{asset('/import/by_air/create')}}">Create</a></div>
+              <div class="panel-heading"><a class="button btn-success" href="{{asset('/import/by_air/create')}}">Create</a></div>
               <div class="panel-body">
 
                 <table id="import_by_air" class="table table-striped table-bordered" cellspacing="0" width="100%">
