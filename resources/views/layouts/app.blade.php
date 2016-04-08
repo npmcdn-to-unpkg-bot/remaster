@@ -29,7 +29,7 @@
      */
 
         body {
-            font-family: 'Lato';
+            
             background: url({{asset('file/bg.jpg')}}) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
