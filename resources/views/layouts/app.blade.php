@@ -8,7 +8,7 @@
     <title>EXIM</title>
     <link href="css/app.css" rel="stylesheet">
   	<link href="css/style.css" rel="stylesheet">
-  	<link rel="stylesheet" href="https://npmcdn.com/angular-toastr/dist/angular-toastr.css" />
+  	<link rel="stylesheet" href="https://unpkg.com/angular-toastr/dist/angular-toastr.css" />
 
   	<!-- Fonts -->
   	<link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
@@ -141,7 +141,7 @@
     <script src="https://cdn.datatables.net/1.10.11/js/dataTables.bootstrap.min.js"></script>
     {{-- angular --}}
   	<script src="js/angular.min.js"></script>
-  	<script src="https://npmcdn.com/angular-toastr/dist/angular-toastr.tpls.js"></script>
+  	<script src="https://unpkg.com/angular-toastr/dist/angular-toastr.tpls.js"></script>
 
   	<script src="scripts/app.js"></script>
   	<script src="scripts/controllers/todo-controller.js"></script>
